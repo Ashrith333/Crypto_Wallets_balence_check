@@ -1,0 +1,52 @@
+/*selector{
+	property : valus;
+}
+*/
+h1{
+	color: red ;
+	/*color: # or rgba(1,12,12,0.3);*/
+	/*border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+	border: 2px dashed purple;
+	border: 2px solid purple;
+}
+li{
+	color: brown;
+}
+h4{
+	color: purple;
+	background: rgb(244,223,686);
+}
+body{
+	background: white;
+
+	/*background: url(https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
+
+li{
+	border: 2px solid black;
+	/*background: blue;*/
+}
+#mask{
+	color: green;
+}
+#dog{
+	background: gold;
+}
+
+/*(#) for id (.) for class 
+<li id="mask">
+			<input type="checkbox" name="Mask" required>
+			Wear Mask
+		</li>
+#mask{
+	color: green;
+}
+<div> <p class="hi"> hi bro </p>
+</p>
+.hi{
+	color: green;
+}*/
